@@ -1,4 +1,4 @@
-# YOU2B DOWNLOAD
+# YOU2B DOWNLOADER
 
 This script use youtube-dl to download a video from an given url
 
