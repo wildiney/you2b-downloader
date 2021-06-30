@@ -6,7 +6,12 @@ This script use youtube-dl to download a video from an given url
 
 Youtube-dl has to be in your path
 
+Rename .env.example to .env and update the variables inside the file
+
+Run:
+
 ```python
+pip install
 python run.py
 ```
 
